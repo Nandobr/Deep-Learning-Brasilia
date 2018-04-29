@@ -1,2 +1,2 @@
-# test-repo
-This is a test repo
+# Deep Learning Brasília
+Grupo de estudo
