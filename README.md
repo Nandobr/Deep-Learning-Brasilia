@@ -1,2 +1,2 @@
-# Deep Learning Brasília
-Grupo de estudo
+# Deep Learning Brasília-Brasil
+Grupo de estudo Fast.Ai
